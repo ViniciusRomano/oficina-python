@@ -4,4 +4,4 @@ Este repositório será utilizado para colocar os exercícios resolvidos que ser
 
 ## Slides
 
-Os slides estão disponíveis em: (Link será postado no começo da oficina)
+Os slides estão disponíveis em: https://docs.google.com/presentation/d/1xDWI6-GxYirtNrUCHC2j8SUqiS59usmWydA_jMNrrPw/edit?usp=sharing
